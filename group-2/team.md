@@ -1,6 +1,0 @@
----
-description: soon
----
-
-# Team
-

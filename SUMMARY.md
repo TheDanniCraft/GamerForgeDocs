@@ -2,10 +2,17 @@
 
 * [Übersicht](README.md)
 
-## Group 1
+## Infos
 
-* [API](group-1/api.md)
+* [Rollen](infos/rollen.md)
+* [Vorteile](infos/vorteile.md)
+* [Level](infos/level.md)
+* [Profil](infos/profil.md)
 
-## Group 2
+## API
 
-* [Team](group-2/team.md)
+* [Was ist eine API?](api/was-ist-eine-api.md)
+
+## Team
+
+* [Bewerben](team/bewerben.md)
