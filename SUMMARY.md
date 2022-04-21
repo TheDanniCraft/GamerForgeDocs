@@ -15,4 +15,5 @@
 
 ## Team
 
+* [Wer macht was im Team?](team/wer-macht-was-im-team.md)
 * [Bewerben](team/bewerben.md)
