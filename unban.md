@@ -15,7 +15,7 @@ description: >-
 Über diese Website kannst du einen Antrag einreichen. Dazu musst du dich mit Discord anmelden, damit wir wissen wer du bist. Fülle das Formular **SORGFÄLLTIG** aus, da nachträgliche Änderungen nicht mehr möglich sind.
 
 {% hint style="info" %}
-Wenn dein Antrag akzeptiert wird, wirst du automatisch wieder zum Server hinzugefügt.
+Wenn dein Antrag akzeptiert wird, wirst du automatisch wieder zum Server hinzugefügt. Solltest du innerhalb von **7** Tagen **KEINE** Rückmeldung bekommen, wurde dein Antrag vermutlich **ABGELEHNT**
 {% endhint %}
 
 {% embed url="https://unban.gamerforge-discord.de" %}
