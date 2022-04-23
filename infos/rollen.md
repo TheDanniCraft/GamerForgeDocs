@@ -5,7 +5,7 @@ description: Welche Rollen gibt es denn alle? Und was können diese?
 # Rollen
 
 {% hint style="info" %}
-Dies sind **NICHT** alle Rollen. Wir haben aber versucht die wichtigsten hier aufzuführen. Die Teamrollen sind in einer separaten Liste, die ihr [hier ](../team/wer-macht-was-im-team.md)findet. &#x20;
+Dies sind **NICHT** alle Rollen. Wir haben aber versucht die wichtigsten hier aufzuführen. Die Teamrollen sind in einer separaten Liste, die ihr [hier ](../team/wer-macht-was-im-team.md)findet.  Die Levelrollen könnt ihr [hier](level.md) finden.
 {% endhint %}
 
 ### Frei wählbare Rollen
@@ -46,8 +46,8 @@ Diese Rollen kannst du über [diese](https://discord.com/channels/82071192115806
 {% endtab %}
 
 {% tab title="Geschlechter Rollen" %}
-* Männlich&#x20;
-* Weiblich
-* Divers
+* <mark style="color:red;">Männlich</mark>&#x20;
+* <mark style="color:red;">Weiblich</mark>
+* <mark style="color:red;">Divers</mark>
 {% endtab %}
 {% endtabs %}
