@@ -1,5 +1,7 @@
 ---
 description: Was ist ein GamerForge? Und wie kann ich joinen? Das alles erfärst du hier.
+cover: .gitbook/assets/Serverlogo.gif
+coverY: 23.01957940536621
 ---
 
 # Übersicht
