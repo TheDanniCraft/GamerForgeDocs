@@ -56,7 +56,7 @@ Diese Rollen kannst du über [diese](https://discord.com/channels/82071192115806
 
 <details>
 
-<summary>Teamrollen</summary>
+<summary><a href="broken-reference">Teamrollen</a></summary>
 
 * **Owner** - Besitzer des Servers
 * **Co-Owner** - Unterstützt den Owner & Leitet das Team
@@ -125,7 +125,7 @@ Diese Rollen kannst du über [diese](https://discord.com/channels/82071192115806
 
 <details>
 
-<summary>Partner Rollen</summary>
+<summary><a href="../programme/partner.md">Partner Rollen</a></summary>
 
 * **Premium Partner** - Für Premium Partner
 * **Großer Partner** - Für Große Partner
@@ -137,21 +137,21 @@ Diese Rollen kannst du über [diese](https://discord.com/channels/82071192115806
 
 <details>
 
-<summary>Reward Rollen</summary>
+<summary><a href="vorteile.md">Reward Rollen</a></summary>
 
-* Server Booster - Belohnung für alle die den Server boosten
-* Twitch Subscriber: Tier 3  - Tier 3 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* Twitch Subscriber: Tier 2  - Tier 2 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* Twitch Subscriber: Tier 1  - Tier 1 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* Twitch Subscriber  - Grundrolle für Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* Status Supporter  -  Für die Status Supporter
-* Aktiv -  Für alle ab 100 Daily Messages
+* **Server Booster** - Belohnung für alle die den Server boosten
+* T**witch Subscriber: Tier 3**  - Tier 3 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Twitch Subscriber: Tier 2**  - Tier 2 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Twitch Subscriber: Tier 1**  - Tier 1 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Twitch Subscriber** - Grundrolle für Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Status Supporter**  -  Für die [Status Supporter](vorteile.md#status-supporter)
+* **Aktiv** -  Für alle ab 100 Daily Messages
 
 </details>
 
 <details>
 
-<summary>Level Rollen</summary>
+<summary><a href="level.md">Level Rollen</a></summary>
 
 * God (LVL: 100)
 * Guardian (LVL: 90)
