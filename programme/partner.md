@@ -5,6 +5,8 @@ description: Welche Partnerprogramme haben wir?
 # 🔁 Partner
 
 {% hint style="warning" %}
+Wir prüfen unsere Partner genau. Dies kann mehrere Tage dauern.\
+\
 Wir können jederzeit Partnerschaften ohne Begründung ablehnen/kündigen! Es MUSS immer ein Partnervertreter auf dem Server bleiben, sollte dieser den Server verlassen ist die Partnerschaft **SOFORT** beendet
 {% endhint %}
 
