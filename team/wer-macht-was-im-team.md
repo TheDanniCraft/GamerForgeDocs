@@ -1,25 +1,18 @@
+---
+description: Wer macht eigentlich was?
+---
+
 # 🅿 Wer macht was im Team?
 
-<details>
+### Welche Teamrollen gibt es?
 
-<summary>Owner</summary>
-
-Der Owner leitet den Server und das Team. Dabei wird er von Co-Ownern und Admins unterstützt.
-
-</details>
-
-<details>
-
-<summary>Co-Owner</summary>
-
-Der Owner leitet den Server und das Team. Dabei wird er von Co-Ownern und Admins unterstützt.
-
-</details>
-
-<details>
-
-<summary>Admin</summary>
-
-Der Admin kümmert sich um Aufgaben die vom Team sonst nicht erledigt werden können.&#x20;
-
-</details>
+* **Owner** - Besitzer des Servers
+* **Co-Owner** - Unterstützt den Owner & Leitet das Team
+* **Admin** - Unterstützt Owner & Co-Owner & Unterstützt bei der Teamleitung
+* **Developer** - Entwickelt hauseigene Bots für Events usw.
+* **Moderator** -  Unterstützt die Supporter&#x20;
+* **Supporter -** Moderiert den Chat & kümmert sich um Tickets
+* **Test-Supporter -** Probezeit & Einlernphase für neue Supporter
+* **Partnermanager** - **** Kümmert sich um die Partner des Servers
+* **Social-Media Beauftragter -** Kümmert sich um die Social Media Präsenz
+* **Builder  -** Gestaltet den Server
