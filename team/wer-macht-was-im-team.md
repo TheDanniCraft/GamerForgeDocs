@@ -1,4 +1,4 @@
-# Wer macht was im Team?
+# 🅿 Wer macht was im Team?
 
 <details>
 

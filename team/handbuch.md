@@ -1,4 +1,12 @@
-# Handbuch
+---
+description: Das universelle Handbuch für alle Teammitglieder
+---
+
+# 📕 Handbuch
+
+{% hint style="danger" %}
+Dieser Abschnitt ist **NUR** für Teammitglieder wichtig.
+{% endhint %}
 
 ### Einführung
 

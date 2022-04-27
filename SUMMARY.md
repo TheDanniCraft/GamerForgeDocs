@@ -10,16 +10,16 @@
 * [🔼 Level](infos/level.md)
 * [🙅 Profil](infos/profil.md)
 
-## Programme
+## 💻 Programme
 
-* [Content-Creator](programme/content-creator.md)
-* [Partner](programme/partner.md)
+* [🎥 Content-Creator](programme/content-creator.md)
+* [🔁 Partner](programme/partner.md)
 
-## Team
+## 🫂 Team
 
-* [Wer macht was im Team?](team/wer-macht-was-im-team.md)
-* [Bewerben](team/bewerben.md)
-* [Handbuch](team/handbuch.md)
+* [🅿 Wer macht was im Team?](team/wer-macht-was-im-team.md)
+* [🗒 Bewerben](team/bewerben.md)
+* [📕 Handbuch](team/handbuch.md)
 
 ## 👨💻 API
 
