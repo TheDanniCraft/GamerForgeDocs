@@ -4,9 +4,9 @@ description: >-
   Liste aller Endpoints die öffentlich verfügbar sind.
 ---
 
-# 📍 Endpoints
+# Endpoints
 
-{% swagger method="get" path="/users" baseUrl="https://api.thedannicraft.de/data/discord/gamerforge" summary="" %}
+{% swagger method="get" path="https://api.thedannicraft.de/data/discord/gamerforge/users" baseUrl="" summary="" %}
 {% swagger-description %}
 Rufe Daten zu den öffentlichen User-Daten ab.
 {% endswagger-description %}
@@ -27,7 +27,7 @@ Rufe Daten zu den öffentlichen User-Daten ab.
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/messages" baseUrl="https://api.thedannicraft.de/data/discord/gamerforge" summary="" %}
+{% swagger method="get" path="" baseUrl="https://api.thedannicraft.de/data/discord/gamerforge/messages" summary="" %}
 {% swagger-description %}
 Rufe Daten zu Message-Statistiken ab.
 {% endswagger-description %}

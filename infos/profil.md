@@ -1,2 +1,2 @@
-# 🙅 Profil
+# Profil
 

@@ -4,7 +4,7 @@ description: >-
   Kein Problem! Hier erfährst du alles wie du wieder entbannt werden kannst.
 ---
 
-# ⚒ Unban
+# Unban
 
 {% hint style="danger" %}
 Überlege genau was du schreibst. Spamm usw. sorgt dafür das du auf einer Blacklist landest und keinen Antrag mehr stellen kannst.

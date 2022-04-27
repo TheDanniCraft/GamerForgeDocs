@@ -2,7 +2,7 @@
 description: Welche Rollen gibt es denn alle? Und was können diese?
 ---
 
-# 🪕 Rollen
+# Rollen
 
 {% hint style="info" %}
 Dies sind **NICHT** alle Rollen. Wir haben aber versucht die wichtigsten hier aufzuführen. Die Teamrollen sind in einer separaten Liste, die ihr [hier ](../team/wer-macht-was-im-team.md)findet.  Die Levelrollen könnt ihr [hier](level.md) finden.
@@ -139,13 +139,13 @@ Diese Rollen kannst du über [diese](https://discord.com/channels/82071192115806
 
 <summary><a href="vorteile.md">Reward Rollen</a></summary>
 
-* ****[**Server Booster** ](vorteile.md#server-booster)- Belohnung für alle die den Server boosten
-* [T**witch Subscriber: Tier 3**](vorteile.md#twitch-subscriber)  - Tier 3 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* ****[**Twitch Subscriber: Tier 2**](vorteile.md#twitch-subscriber)  - Tier 2 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* ****[**Twitch Subscriber: Tier 1**](vorteile.md#twitch-subscriber)  - Tier 1 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* ****[**Twitch Subscriber**](vorteile.md#twitch-subscriber) **** - Grundrolle für Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
-* ****[**Status Supporter**](vorteile.md#status-supporter)  -  Für die [Status Supporter](vorteile.md#status-supporter)
-* ****[**Aktiv** ](vorteile.md#aktiv)-  Für alle ab 100 Daily Messages
+* **Server Booster** - Belohnung für alle die den Server boosten
+* T**witch Subscriber: Tier 3**  - Tier 3 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Twitch Subscriber: Tier 2**  - Tier 2 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Twitch Subscriber: Tier 1**  - Tier 1 Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Twitch Subscriber** - Grundrolle für Abonnenten auf [Twitch](https://twitch.tv/thedannicraft)
+* **Status Supporter**  -  Für die [Status Supporter](vorteile.md#status-supporter)
+* **Aktiv** -  Für alle ab 100 Daily Messages
 
 </details>
 
