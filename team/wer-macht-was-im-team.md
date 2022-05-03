@@ -15,4 +15,4 @@ description: Wer macht eigentlich was?
 * **Test-Supporter -** Probezeit & Einlernphase für neue Supporter
 * **Partnermanager** - **** Kümmert sich um die Partner des Servers
 * **Social-Media Beauftragter -** Kümmert sich um die Social Media Präsenz
-* **Builder  -** Gestaltet den Server
+* **Builder  -** Gestaltet den Discord Server & entwirft neue Konzepte
