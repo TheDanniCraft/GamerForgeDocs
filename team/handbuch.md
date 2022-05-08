@@ -59,18 +59,34 @@ Für eine bessere Moderation werden Argumente (z.B. Grund) im Command verwendet.
 ### **Tickets**
 
 {% hint style="info" %}
-Automoderation ist in allen Ticketkanälen deaktiviert!
+Standardmäßig werden alle Messages an den Usern weitergeleitet. Für Absprachen/Fragen den ╔👥║team-chat nutzen.\
+\
+Notizen(z.B. um etwas festzuhalten) können mit ?note \<Notitzt> gemacht werden. Diese werden **NICHT** an den User gesendet!
 {% endhint %}
 
-Der Erste, der im Channel ist, sollte das Ticket grundlegend bearbeiten(Gezielte Fragen stellen) Dies zeigt dem User, das sein Ticket bearbeitet wird. Sollte der Grund bereits bekannt sein, versuchen das Problem zu lösen. Sollte das Problem nicht von dir lösbar sein, pinge ein passendes Teammitglied.
+Neue Tickets landen generell in `═Tickets (unkategorisiert) ═`.\
+Das Ticket danach in die passende Kategorie verschieben:
 
-Wenn ein Ticket erledigt scheint, beim User nachfragen, ob er noch Hilfe braucht. Nach Ablauf von 24 Stunden ohne Reaktion oder bei Verneinung , das Ticket per Knopf oder besser mit `.close <Grund>` schließen.
+* `?bewerbung` - Für Bewerbungstickets
+* `?content-creator` / `?creator` - Für Fragen zu und von Content Creatorn
+* `?general` - Für generelle Tickets
+* `?partner` / `?partnerschaft` - Für Tickets bezüglich Partnerschaften
+* `?report` - Für Reports
+* `?wichtig` - Für dringende Tickets / Tickets für die Serverleitug
+
+{% hint style="warning" %}
+Um Chat Diskussionen zu entschärefen / Tickets für einen anderen User zu erstellen kann ein Ticket für den betreffenden User erstellt werden mit `?contact <User>`.
+{% endhint %}
+
+{% hint style="danger" %}
+Sollte ein User Tickets spammen kann er von Usern ab Moderator mit `?block`gespert werden.
+{% endhint %}
 
 ### **Moderation**
 
 Beim Moderieren unterstützt die Automod Funktion von `Wick#4943`. Da kein System fehlerfrei ist, kann es hier zu Fehlern kommen. Deshalb muss der Chat weiterhin manuell moderiert werden. Alle Inhalte die gegen die [Regeln ](handbuch.md#serverregeln)verstoßen, müssen gelöscht werden. Der User sollte danach eine passende [Strafe ](handbuch.md#strafen)bekommen.
 
-### Commands
+#### Commands
 
 Alle Moderations-Handlungen werden mit `Wick#4943`durchgeführt. Der Prefix für diesen Bot ist `^`. In den Commands werden sogenannte Argumente verwendet. Diese werden mit `?` angegeben. Dabei können mehrere in einem Command verwendet werden.
 
