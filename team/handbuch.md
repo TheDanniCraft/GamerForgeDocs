@@ -83,7 +83,7 @@ Sollte ein User Tickets spammen kann er von Usern ab Moderator mit `?block`gespe
 {% endhint %}
 
 {% hint style="success" %}
-Erledigte Tickets können mit `?close` geschlossen werden.
+Erledigte Tickets können mit `?close <Grund>` geschlossen werden.
 {% endhint %}
 
 ### **Moderation**
