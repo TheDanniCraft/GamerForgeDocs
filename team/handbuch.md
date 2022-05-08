@@ -82,6 +82,10 @@ Um Chat Diskussionen zu entschärefen / Tickets für einen anderen User zu erste
 Sollte ein User Tickets spammen kann er von Usern ab Moderator mit `?block`gespert werden.
 {% endhint %}
 
+{% hint style="success" %}
+Erledigte Tickets können mit `?close` geschlossen werden.
+{% endhint %}
+
 ### **Moderation**
 
 Beim Moderieren unterstützt die Automod Funktion von `Wick#4943`. Da kein System fehlerfrei ist, kann es hier zu Fehlern kommen. Deshalb muss der Chat weiterhin manuell moderiert werden. Alle Inhalte die gegen die [Regeln ](handbuch.md#serverregeln)verstoßen, müssen gelöscht werden. Der User sollte danach eine passende [Strafe ](handbuch.md#strafen)bekommen.
